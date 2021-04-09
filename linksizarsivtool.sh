@@ -53,7 +53,7 @@ apt upgrade -y
 clear
 echo -e '\033[31;40;1m              Kurulum Bitti!'
 sleep 2
-bash spytool.sh
+bash linksizarsivtool.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
         clear
@@ -66,7 +66,7 @@ elif [[ $islem == 2 || $islem == 02 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 3
 elif [[ $islem == 3 || $islem == 03 ]]; then
@@ -76,7 +76,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 
 #menu 4
@@ -88,7 +88,7 @@ elif [[ $islem == 4 || $islem == 04 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 #menu 4
 
 elif [[ $islem == 5 || $islem == 05 ]]; then
@@ -98,7 +98,7 @@ elif [[ $islem == 5 || $islem == 05 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 #menu 5
 
 elif [[ $islem == 6 || $islem == 06 ]]; then
@@ -108,7 +108,7 @@ elif [[ $islem == 6 || $islem == 06 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 #menu 6
 elif [[ $islem == 7 || $islem == 07 ]]; then
         clear
@@ -117,7 +117,7 @@ elif [[ $islem == 7 || $islem == 07 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 7
 elif [[ $islem == 8 ]]; then
@@ -128,7 +128,7 @@ elif [[ $islem == 8 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 8
 elif [[ $islem == 9 || $islem == 09 ]]; then
@@ -141,7 +141,7 @@ elif [[ $islem == 9 || $islem == 09 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 9
 elif [[ $islem == 10 ]]; then
@@ -151,7 +151,7 @@ elif [[ $islem == 10 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 10
 elif [[ $islem == 11 ]]; then
@@ -164,7 +164,7 @@ elif [[ $islem == 11 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 
 #menu 11
@@ -175,7 +175,7 @@ elif [[ $islem == 12 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 12
 elif [[ $islem == 13 ]]; then
@@ -185,7 +185,7 @@ elif [[ $islem == 13 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 13
 elif [[ $islem == 14 ]]; then
@@ -198,7 +198,7 @@ elif [[ $islem == 14 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 14
 elif [[ $islem == 15 ]]; then
@@ -208,7 +208,7 @@ elif [[ $islem == 15 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 #menu 15
 elif [[ $islem == 16 ]]; then
         clear
@@ -217,7 +217,7 @@ elif [[ $islem == 16 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 16
 elif [[ $islem == 17 ]]; then
@@ -230,7 +230,7 @@ elif [[ $islem == 17 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 17
 elif [[ $islem == 18 ]]; then
@@ -244,7 +244,7 @@ elif [[ $islem == 18 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 18
 elif [[ $islem == 19 ]]; then
@@ -257,7 +257,7 @@ elif [[ $islem == 19 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 19
 elif [[ $islem == 20 ]]; then
@@ -267,7 +267,7 @@ elif [[ $islem == 20 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 #menu 20
 elif [[ $islem == 21 ]]; then
@@ -280,7 +280,7 @@ elif [[ $islem == 21 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 	#menu 21
 elif [[ $islem == 22 ]]; then
@@ -290,7 +290,7 @@ elif [[ $islem == 22 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh	
+        bash linksizarsivtool.sh	
 		
 		#menu 22
 elif [[ $islem == 23 ]]; then
@@ -300,7 +300,7 @@ elif [[ $islem == 23 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh	
+        bash linksizarsivtool.sh	
 		
 		
 #menu 23
@@ -319,7 +319,7 @@ elif [[ $islem == 24 ]]; then
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
 	cd $HOME/SpyTool
-        bash spytool.sh
+        bash linksizarsivtool.sh
 
 
 else   
@@ -327,5 +327,5 @@ else
         echo -e '\033[36;40;1m Girdiğniz İşlem Numarasını Kontrol Ediniz...'	
 	sleep 1
 	clear 
-	bash spytool.sh
+	bash linksizarsivtool.sh
 fi                                                               
