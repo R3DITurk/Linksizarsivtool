@@ -65,7 +65,7 @@ elif [[ $islem == 2 || $islem == 02 ]]; then
         clang  xerxes.c -o  xerxes
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 3
@@ -75,7 +75,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
         git clone https://github.com/b3-v3r/Hunner
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 
@@ -87,7 +87,7 @@ elif [[ $islem == 4 || $islem == 04 ]]; then
         mv -v ngrok /data/data/com.termux/files/usr/bin
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 #menu 4
 
@@ -97,7 +97,7 @@ elif [[ $islem == 5 || $islem == 05 ]]; then
         git clone https://github.com/ciku370/ko-dork
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 #menu 5
 
@@ -107,7 +107,7 @@ elif [[ $islem == 6 || $islem == 06 ]]; then
         git clone https://github.com/sqlmapproject/sqlmap
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 #menu 6
 elif [[ $islem == 7 || $islem == 07 ]]; then
@@ -116,7 +116,7 @@ elif [[ $islem == 7 || $islem == 07 ]]; then
         git clone https://github.com/s0md3v/Breacher
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 7
@@ -127,7 +127,7 @@ elif [[ $islem == 8 ]]; then
         pkg install metasploit
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 8
@@ -140,7 +140,7 @@ elif [[ $islem == 9 || $islem == 09 ]]; then
         pip install -r requirements.txt
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 9
@@ -150,7 +150,7 @@ elif [[ $islem == 10 ]]; then
         git clone https://github.com/ibrahimirdem/tckimlik
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 10
@@ -163,7 +163,7 @@ elif [[ $islem == 11 ]]; then
         pip install colorama
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 
@@ -174,7 +174,7 @@ elif [[ $islem == 12 ]]; then
         git clone https://github.com/xHak9x/finduser
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 12
@@ -184,7 +184,7 @@ elif [[ $islem == 13 ]]; then
         pkg install nmap -y
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 13
@@ -197,7 +197,7 @@ elif [[ $islem == 14 ]]; then
         chmod 777 A-Rat.py
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 14
@@ -207,7 +207,7 @@ elif [[ $islem == 15 ]]; then
         git clone https://github.com/yamanefkar/Camera-Tr
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 #menu 15
 elif [[ $islem == 16 ]]; then
@@ -216,7 +216,7 @@ elif [[ $islem == 16 ]]; then
         git clone https://github.com/iammtw/Weeman
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 16
@@ -229,7 +229,7 @@ elif [[ $islem == 17 ]]; then
         pip2 install -r requirements.txt
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 17
@@ -243,7 +243,7 @@ elif [[ $islem == 18 ]]; then
         pip install -r requirements.txt
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 18
@@ -256,7 +256,7 @@ elif [[ $islem == 19 ]]; then
         bash requirements.sh
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 19
@@ -266,7 +266,7 @@ elif [[ $islem == 20 ]]; then
         git clone https://github.com/ciku370/hasher
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 #menu 20
@@ -279,7 +279,7 @@ elif [[ $islem == 21 ]]; then
         pip3 install -r requirements.txt
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 	#menu 21
@@ -289,7 +289,7 @@ elif [[ $islem == 22 ]]; then
         git clone https://github.com/Tuhinshubhra/RED_HAWK
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh	
 		
 		#menu 22
@@ -299,7 +299,7 @@ elif [[ $islem == 23 ]]; then
         git clone https://github.com/yamanefkar/Spam-Sms
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh	
 		
 		
@@ -315,10 +315,10 @@ elif [[ $islem == 24 ]]; then
         cd termux-ubuntu
         bash ubuntu.sh
         sleep 2
-        mv -v spytool-ubuntu.sh /data/data/com.termux/files/usr/bin
+        mv -v Linksizarsivtool-ubuntu.sh /data/data/com.termux/files/usr/bin
         sleep 2
         echo -e '\033[31;40;1mKurulum Tamamlandı...'
-	cd $HOME/SpyTool
+	cd $HOME/Linksizarsivtool
         bash linksizarsivtool.sh
 
 
